@@ -1,0 +1,23 @@
+{
+  "name": "zuoye05",
+  "version": "1.0.0",
+  "description": "该电子书是关于'电影'题材的介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuuuy/zuoye05.git"
+  },
+  "keywords": [],
+  "author": "liuying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuuuy/zuoye05/issues"
+  },
+  "homepage": "https://github.com/liuuuy/zuoye05#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
