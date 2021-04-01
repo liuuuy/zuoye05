@@ -4,7 +4,7 @@
   "description": "该电子书是关于'电影'题材的介绍",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
